@@ -16,17 +16,21 @@ ALS acquisition history         ppm, int, tech development
 + First Gen 3dep
 + Current public lidar in California
 + Geospatial investment going forward
+
 contrast with traditional geospatial objects 
 + rasters, 
 + simple feature vectors
 + vs Point clouds
 +   decimation example 
+
 A look at a LAS file structure             
 + XYZICRGB and the 
 + other lidar specific variables
+
 LAZ compression
 + File Sizes, Memory Management, various kinds of performance constraints tradeoffs
 + LAZ 1.4 type 6,7,8 spec
+
 EPT/COPC 
 + The current state of the USGS Entwine service 
 + Cloud Optimized Point Clouds 
