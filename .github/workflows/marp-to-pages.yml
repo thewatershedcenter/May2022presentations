@@ -57,5 +57,3 @@ jobs:
           branch: gh-pages
           folder: ./build/
           clean-exclude: pr-preview/
-
-Loading complete
