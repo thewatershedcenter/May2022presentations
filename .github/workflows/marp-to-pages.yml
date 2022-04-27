@@ -3,7 +3,7 @@ name: marp-to-pages
 concurrency: marp-to-pages
 on:
   push:
-    branches: [ gh-pages ]
+    branches: [ main ]
   pull_request:
     types:
       - opened
