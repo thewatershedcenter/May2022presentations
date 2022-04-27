@@ -1,4 +1,4 @@
 # May2022presentations
 
-
-Presentaions and Outlines for Public Lidar education
++ Modify the presentation in docs/
++ Put imgs in img/
