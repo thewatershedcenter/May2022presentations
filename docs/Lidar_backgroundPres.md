@@ -4,8 +4,9 @@
 ### Watershed Research and Training Center
 
 
-Airborne Laser scanning and photogrammetryLidar 
-+ ALS 
+## Airborne Laser scanning and photogrammetry
+Both Lidar and Photogrammetry make point clouds
++ ALS Airborne Lidar Surverys 
 + TLS 
 + MLS 
 + UAVs
