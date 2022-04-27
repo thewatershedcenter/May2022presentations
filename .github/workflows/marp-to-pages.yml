@@ -1,32 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@kulpojke
-thewatershedcenter /
-marp_2022_apr_28
-Private
-generated from ralexander-phi/marp-to-pages
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-
-    Settings
-
-marp_2022_apr_28/.github/workflows/marp-to-pages.yml
-@kulpojke
-kulpojke Initial commit
-Latest commit 1f783b6 39 minutes ago
-History
-1 contributor
-66 lines (57 sloc) 1.57 KB
 name: marp-to-pages
 concurrency: marp-to-pages
 on:
