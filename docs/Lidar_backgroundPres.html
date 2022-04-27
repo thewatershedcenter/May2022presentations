@@ -33,30 +33,50 @@
 </span></span></foreignObject></svg></code></pre>
 </li>
 </ul>
-<p>ALS acquisition history         ppm, int, tech development<br />
-B4, NSF, NOAA     <br />
-ARRAFirst Gen 3depCurrent public lidar in California<br />
-Geospatial investment going forward<br />
-contrast with traditional geospatial objects<br />
-rasters,<br />
-simple feature vectorsvs Point clouds           decimation example<br />
-A look at a LAS file structure            <br />
-XYZICRGB and the other lidar specific variables<br />
-LAZ compressionFile Sizes, Memory Management, various kinds of performance constraints tradeoffsLAZ 1.4 type 6,7,8 spec<br />
-EPT/COPC<br />
-The current state of the USGS Entwine service<br />
-Cloud Optimized Point Clouds<br />
-Range read features<br />
-Accessing Public Cloud Lidar assets<br />
-RockywebentwineNoaa lidarOpentopo<br />
-Point Cloud operations filter<br />
-selectobject segmentationrelationscloud to cloud comparison, determination of change vs digital elevation model of difference approaches<br />
-ClassificationDetail view of<br />
-high level classfication, filtering, selection, object segmentation, and relationships<br />
-Raster extractionSubpixel interpolationLogical conditions<br />
-Statistical characterization within pixels<br />
-Derived raster productSpecifications Resolution<br />
-Determining suitability of applications</p>
+<p>ALS acquisition history         ppm, int, tech development</p>
+<ul>
+<li>B4, NSF, NOAA</li>
+<li>ARRA</li>
+<li>First Gen 3dep</li>
+<li>Current public lidar in California</li>
+<li>Geospatial investment going forward<br />
+contrast with traditional geospatial objects</li>
+<li>rasters,</li>
+<li>simple feature vectors</li>
+<li>vs Point clouds</li>
+<li>decimation example<br />
+A look at a LAS file structure</li>
+<li>XYZICRGB and the</li>
+<li>other lidar specific variables<br />
+LAZ compression</li>
+<li>File Sizes, Memory Management, various kinds of performance constraints tradeoffs</li>
+<li>LAZ 1.4 type 6,7,8 spec<br />
+EPT/COPC</li>
+<li>The current state of the USGS Entwine service</li>
+<li>Cloud Optimized Point Clouds</li>
+<li>Range read features<br />
+Accessing Public Cloud Lidar assets</li>
+<li>Rockyweb</li>
+<li>entwine</li>
+<li>Noaa lidar</li>
+<li>Opentopo<br />
+Point Cloud operations</li>
+<li>filter</li>
+<li>select</li>
+<li>object segmentation</li>
+<li>relations</li>
+<li>cloud to cloud comparison, determination of change vs digital elevation model of difference approaches<br />
+Classification<br />
+Detail view of high level classfication, filtering, selection, object segmentation, and relationships<br />
+Raster extraction</li>
+<li>Subpixel interpolation</li>
+<li>Logical conditions</li>
+<li>Statistical characterization within pixels<br />
+Derived raster product</li>
+<li>Specification</li>
+<li>Resolution</li>
+<li>Determining suitability of applications</li>
+</ul>
 </section>
 <script>!function(){"use strict";const t="marpitSVGPolyfill:setZoomFactor,",e=Symbol();let r,o;function n(n){const i="object"==typeof n&&n.target||document,a="object"==typeof n?n.zoom:n;window[e]||(Object.defineProperty(window,e,{configurable:!0,value:!0}),window.addEventListener("message",(({data:e,origin:r})=>{if(r===window.origin)try{if(e&&"string"==typeof e&&e.startsWith(t)){const[,t]=e.split(","),r=Number.parseFloat(t);Number.isNaN(r)||(o=r)}}catch(t){console.error(t)}})));let l=!1;Array.from(i.querySelectorAll("svg[data-marpit-svg]"),(t=>{var e,n,i,s;t.style.transform||(t.style.transform="translateZ(0)");const c=a||o||t.currentScale||1;r!==c&&(r=c,l=c);const d=t.getBoundingClientRect(),{length:u}=t.children;for(let r=0;r<u;r+=1){const o=t.children[r],a=o.getScreenCTM();if(a){const t=null!==(n=null===(e=o.x)||void 0===e?void 0:e.baseVal.value)&&void 0!==n?n:0,r=null!==(s=null===(i=o.y)||void 0===i?void 0:i.baseVal.value)&&void 0!==s?s:0,l=o.firstElementChild,{style:u}=l;u.transformOrigin||(u.transformOrigin=`${-t}px ${-r}px`),u.transform=`scale(${c}) matrix(${a.a}, ${a.b}, ${a.c}, ${a.d}, ${a.e-d.left}, ${a.f-d.top}) translateZ(0.0001px)`}}})),!1!==l&&Array.from(i.querySelectorAll("iframe"),(({contentWindow:e})=>{null==e||e.postMessage(`${t}${l}`,"null"===window.origin?"*":window.origin)}))}r=1,o=void 0;const i=(t,e,r)=>{if(t.getAttribute(e)!==r)return t.setAttribute(e,r),!0};function a({once:t=!1,target:e=document}={}){const r="Apple Computer, Inc."===navigator.vendor?[n]:[];let o=!t;const a=()=>{for(const t of r)t({target:e});!function(t=document){Array.from(t.querySelectorAll('svg[data-marp-fitting="svg"]'),(t=>{var e;const r=t.firstChild,o=r.firstChild,{scrollWidth:n,scrollHeight:a}=o;let l,s=1;if(t.hasAttribute("data-marp-fitting-code")&&(l=null===(e=t.parentElement)||void 0===e?void 0:e.parentElement),t.hasAttribute("data-marp-fitting-math")&&(l=t.parentElement),l){const t=getComputedStyle(l),e=Math.ceil(l.clientWidth-parseFloat(t.paddingLeft||"0")-parseFloat(t.paddingRight||"0"));e&&(s=e)}const c=Math.max(n,s),d=Math.max(a,1),u=`0 0 ${c} ${d}`;i(r,"width",`${c}`),i(r,"height",`${d}`),i(t,"preserveAspectRatio",getComputedStyle(t).getPropertyValue("--preserve-aspect-ratio")||"xMinYMin meet"),i(t,"viewBox",u)&&t.classList.toggle("__reflow__")}))}(e),o&&window.requestAnimationFrame(a)};return a(),()=>{o=!1}}const l=Symbol(),s=document.currentScript;((t=document)=>{if("undefined"==typeof window)throw new Error("Marp Core's browser script is valid only in browser context.");if(t[l])return t[l];const e=a({target:t}),r=()=>{e(),delete t[l]};Object.defineProperty(t,l,{configurable:!0,value:r})})(s?s.getRootNode():document)}();
 </script></foreignObject></svg></div><script>/*!! License: https://unpkg.com/@marp-team/marp-cli@1.7.0/lib/bespoke.js.LICENSE.txt */
