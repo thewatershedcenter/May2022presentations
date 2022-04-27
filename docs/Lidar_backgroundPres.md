@@ -46,9 +46,14 @@ EPT/COPC
 
 Accessing Public Cloud Lidar assets
 + Rockyweb
-+ entwine
++     https://geozoneblog.wordpress.com/2021/11/17/good-ol-rockyweb/   A good overview of tools for accessing Rockyweb
++     https://rockyweb.usgs.gov/
++ USGS entwine service
++     https://usgs.entwine.io/
 + Noaa lidar
++     https://coast.noaa.gov/dataviewer/#/lidar/search/
 + Opentopo
++     
 
 Point Cloud operations 
 + filter 
