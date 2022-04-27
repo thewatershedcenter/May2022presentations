@@ -4,12 +4,20 @@
 ### Watershed Research and Training Center
 
 
-+ Airborne Laser scanning and photogrammetryLidar TechnologyPhotogrammetry
-+ History of public landscape scale tasked remote sensing in CA
-+     Early Air photos
-+     Soil Conservation Service and USACE 1939 -1945
-+     SCS standardization and technical development of photogrammetryTimber Tax era, high quality photogrammetric stand inventories
-+     NHP to NAIP transition   
+Airborne Laser scanning and photogrammetryLidar 
++ ALS 
++ TLS 
++ MLS 
++ UAVs
+
+Traditional Photogrammetry
+
+History of public landscape scale tasked remote sensing in CA
++ Early Air photos
++ Soil Conservation Service and USACE 1939 -1945
++ SCS standardization and technical development of photogrammetryTimber Tax era, high quality photogrammetric stand inventories
++ NHP to NAIP transition   
+
 ALS acquisition history         ppm, int, tech development
 + B4, NSF, NOAA
 + ARRA
