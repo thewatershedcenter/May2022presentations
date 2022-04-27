@@ -35,23 +35,33 @@ EPT/COPC
 + The current state of the USGS Entwine service 
 + Cloud Optimized Point Clouds 
 + Range read features 
+
 Accessing Public Cloud Lidar assets
 + Rockyweb
 + entwine
 + Noaa lidar
 + Opentopo
+
 Point Cloud operations 
 + filter 
 + select
 + object segmentation
 + relations
 + cloud to cloud comparison, determination of change vs digital elevation model of difference approaches
-Classification
-Detail view of high level classfication, filtering, selection, object segmentation, and relationships
++ Classification
+
+Detail view of 
++ high level classfication, 
++ filtering, 
++ selection, 
++ object segmentation, and 
++ relationships
+
 Raster extraction
 + Subpixel interpolation
 + Logical conditions
 + Statistical characterization within pixels
+
 Derived raster product
 + Specification 
 + Resolution 
