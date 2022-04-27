@@ -1,4 +1,4 @@
 # May2022presentations
 
-+ Modify the presentation in docs/
++ Modify the presentations in docs/
 + Put imgs in img/
