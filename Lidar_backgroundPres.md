@@ -5,11 +5,13 @@
 
 
 + Airborne Laser scanning and photogrammetryLidar TechnologyPhotogrammetry
-+   History of public landscape scale tasked remote sensing in CA
-+     Early Air photosSoil Conservation Service and USACE 1939 -1945SCS standardization and technical development of photogrammetryTimber Tax era, high quality photogrammetric stand inventories
++ History of public landscape scale tasked remote sensing in CA
++     Early Air photos
++     Soil Conservation Service and USACE 1939 -1945
++     SCS standardization and technical development of photogrammetryTimber Tax era, high quality photogrammetric stand inventories
 +     NHP to NAIP transition   
 ALS acquisition history         ppm, int, tech development
-B4, NSF, NOAA      
+    B4, NSF, NOAA      
 ARRAFirst Gen 3depCurrent public lidar in California 
 Geospatial investment going forward
 contrast with traditional geospatial objects 
