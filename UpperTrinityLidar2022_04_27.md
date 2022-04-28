@@ -61,22 +61,52 @@ Yes indeed
 
 ---
 
-## Total Animal Situation (TAS)
+## Geomorphons
 <!-- _color: green -->
+<!-- _footer: "![](img/legend.png)" -->
+
+<style>
+footer {
+    height: 330px;
+    margin-bottom: 0 px;
+    
+}
+footer img {
+
+    float: center;
+    width: 90%;
+ }
+</style>
+
 ![bg right:56%](img/Geomorphon03_0_0__05.png)
 
-- Geomorphons
-- Aardvark
-- Frog
+- High frequency spatial data 
+- i.e. small features
 
 ---
-## Total Animal Situation (TAS)
-<!-- _color: green -->
-![bg right:56%](img/geomorphon15_03_01__05.png)
 
-- Geomorphons
-- Cat
-- Frog
+## Geomorphons
+<!-- _color: green -->
+<!-- _footer: "![](img/geomorphon.png)" -->
+
+<style>
+footer {
+    height: 330px;
+    margin-bottom: 0 px;
+
+}
+footer img {
+
+    float: center;
+    width: 70%;
+ }
+</style>
+
+![bg bottom right:56%](img/geomorphon15_03_01__05.png)
+
+
+- Intermediate frequency spatial data
+- i.e. medium sized features
 
 ---
 ## Total Animal Situation (TAS)
@@ -142,8 +172,9 @@ Yes indeed
 
 ## Total Animal Situation (TAS)
 <!-- _color: green -->
-![bg right:56%](img/shd_05.png)
+![bg right:56%](img/slp_05.png)
 
 - Mouse
-- shd_05.png
+- slp_05.png
 - L. Ron Hubbard
+
