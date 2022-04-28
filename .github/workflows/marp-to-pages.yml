@@ -28,10 +28,10 @@ jobs:
         env:
           MARP_USER: root:root
 
-      - name: Marp Build (README.pdf)
+      - name: Marp Build (index.pdf)
         uses: docker://marpteam/marp-cli:v1.7.0
         with:
-          args: README.md -o build/README.pdf
+          args: UpperTrinityLidar2022_04_27.md -o build/UpperTrinityLidar2022_04_27.pdf
         env:
           MARP_USER: root:root
 

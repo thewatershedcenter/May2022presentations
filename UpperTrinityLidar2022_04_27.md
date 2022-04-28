@@ -28,7 +28,7 @@ Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 
 ---
 <!-- _color: pink -->
-## Hear be another slide
+## Hear be a pink worded slide
 
 
 --- 
