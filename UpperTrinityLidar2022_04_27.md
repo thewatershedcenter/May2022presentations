@@ -18,7 +18,7 @@ Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 
 ---
 
-## Slide Two
+## Total Animal Situation (TAS)
 <!-- _color: green -->
 ![bg](img/sale_2_fade.png)
 
