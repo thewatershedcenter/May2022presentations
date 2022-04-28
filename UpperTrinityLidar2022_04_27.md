@@ -15,6 +15,13 @@ backgroundColor: #000
 
 Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 =====
+
+---
+## Site
+<!-- _color: green -->
+![bg right:56%](img/Region.png)
+
+
 ---
 ## Tree Canopy
 <!-- _color: green -->
@@ -44,9 +51,9 @@ Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 
 
 ---
-#### Tree Canopy - TTOPS
+#### Tree Canopy - Normalized Height
 <!-- _color: green -->
-![bg right:56%](img/sale_2.png)
+![bg right:56%](img/Norm1.png)
 
 
 ---
@@ -56,10 +63,9 @@ Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 
 
 ---
-#### Tree Canopy - Crowns
+#### Tree Canopy - other ZQ95 
 <!-- _color: green -->
-![bg right:56%](img/sale_2.png)
-
+![bg right:56%](img/2_5dZQ95.png)
 
 
 ---
