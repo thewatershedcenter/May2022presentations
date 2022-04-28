@@ -9,6 +9,7 @@ backgroundColor: #000
 ---
 
 <!-- _class: invert -->
+<!-- _color: #ade396 -->
 ![bg](img/sale_2.png)
 
 
@@ -18,6 +19,7 @@ Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 ---
 
 ## Slide Two
+<!-- _color: green -->
 ![bg](img/sale_2_fade.png)
 
 - Dog
@@ -25,7 +27,8 @@ Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 - Frog
 
 ---
+<!-- _color: pink -->
+## Hear be another slide
 
-layout: template
-filename: NAME OF THIS .md FILE HERE
+
 --- 
