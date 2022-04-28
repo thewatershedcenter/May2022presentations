@@ -31,6 +31,7 @@ Yes indeed
 ![bg right:56%](img/CHMonSLP2.png)
 
 - CHM
+- Shown here over slope
 
 ---
 
@@ -39,7 +40,7 @@ Yes indeed
 ![bg right:56%](img/CHMonSLP.png)
 
 - CHM
-
+- Shown here over slope
 ---
 
 ## Tree Canopy
@@ -60,6 +61,60 @@ Yes indeed
 - Crowns
 
 ---
+## Slope
+<!-- _color: green -->
+![bg right:56%](img/HIS_slp_op_RRIM.png)
+
+- Slope!
+
+
+---
+## Openness
+<!-- _color: green -->
+![bg right:56%](img/openess_15_05.png)
+
+- Integration of relative horizontal elevation in 16 directions within 15 pixel search window on DEM
+- i.e., Is there stuff around this pixel?
+
+
+---
+## Red Relief
+<!-- _color: green -->
+![bg right:56%](img/HIS_slp_op_RRIM.png)
+
+- Nice for visualization
+- Based on slope and openness
+
+
+---
+## High Pass Filter
+<!-- _color: green -->
+![bg right:56%](img/hp_15_05.png)
+
+- Sharpens local features
+- Here with 7.5m focal mean and 0.5 m pixels
+
+
+---
+## High Pass FIlter
+<!-- _color: green -->
+![bg right:56%](img/hp_15_05_outliers.png)
+
+- Sharpens local features
+- Here with 7.5m focal mean and 0.5 m pixels...
+- leaving out vertical changes < |0.2 m|
+
+
+---
+## Another Compound visualization
+<!-- _color: green -->
+![bg right:56%](img/rgb_open_slp_hp.png)
+
+- Nice visualization based on openness, slope and high pass filter
+
+
+---
+
 
 ## Geomorphons
 <!-- _color: green -->
@@ -83,8 +138,8 @@ footer img {
 - High frequency spatial data 
 - i.e. small features
 
----
 
+---
 ## Geomorphons
 <!-- _color: green -->
 <!-- _footer: "![](img/geomorphon.png)" -->
@@ -104,62 +159,11 @@ footer img {
 
 ![bg bottom right:56%](img/geomorphon15_03_01__05.png)
 
-
 - Intermediate frequency spatial data
-- i.e. medium sized features
+- i.e., medium sized features
+
 
 ---
-## Total Animal Situation (TAS)
-<!-- _color: green -->
-![bg right:56%](img/HIS_slp_op_RRIM.png)
-
-- HIS_slp_op_RRIM.png
-- Cat
-- Frog
-
----
-## Total Animal Situation (TAS)
-<!-- _color: green -->
-![bg right:56%](img/hp_15_05_outliers.png)
-
-- Coral
-- hp_15_05_outliers.png
-- Pangolin
-- Frog
-
----
-
-## Total Animal Situation (TAS)
-<!-- _color: green -->
-![bg right:56%](img/hp_15_05.png)
-
-- Platypus
-- hp_15_05.png
-- Cat
-- Frog
-
----
-
-## Total Animal Situation (TAS)
-<!-- _color: green -->
-![bg right:56%](img/openess_15_05.png)
-
-- Mosquito
-- Snake
-- openess_15_05.png
-
----
-
-## Total Animal Situation (TAS)
-<!-- _color: green -->
-![bg right:56%](img/rgb_open_slp_hp.png)
-
-- Hippopotamus
-- Worm
-- rgb_open_slp_hp.png
-
----
-
 ## Total Animal Situation (TAS)
 <!-- _color: green -->
 ![bg right:56%](img/shd_05.png)
@@ -168,8 +172,8 @@ footer img {
 - Unicorn
 - shd_05.png
 
----
 
+---
 ## Total Animal Situation (TAS)
 <!-- _color: green -->
 ![bg right:56%](img/slp_05.png)
