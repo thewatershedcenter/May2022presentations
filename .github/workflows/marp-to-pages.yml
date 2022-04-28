@@ -24,7 +24,7 @@ jobs:
       - name: Marp Build (index)
         uses: docker://marpteam/marp-cli:v1.7.0
         with:
-          args: index.md -o build/index.html
+          args: UpperTrinityLidar2022_04_27.md -o build/index.html
         env:
           MARP_USER: root:root
 
