@@ -190,12 +190,3 @@ footer img {
 
 
 
----
-## Total Animal Situation (TAS)
-<!-- _color: green -->
-![bg right:56%])
-
-- Mouse
-- slp_05.png
-- 
-
