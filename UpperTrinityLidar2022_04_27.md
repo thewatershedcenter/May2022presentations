@@ -8,18 +8,20 @@ filename: docs/UpperTrinityLidar2022_04_27.md
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
-<!--
-backgroundColor: black
-color: white
--->
+
 
 
 Lidar Forestry Applications in the Upper Trinity Watershed
 =====
 
 ---
+<!--
+backgroundColor: black
+color: white
+-->
 
 ## Slide Two
+
 
 - Dog
 - Cat
