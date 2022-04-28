@@ -15,6 +15,41 @@ backgroundColor: #000
 
 Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 =====
+---
+
+## Topography
+<!-- _color: green -->
+![bg right:56%](img/sale_2.png)
+
+Yes indeed
+
+
+---
+
+## Tree Canopy
+<!-- _color: green -->
+![bg right:56%](img/sale_2.png)
+
+- CHM
+
+---
+
+## Tree Canopy
+<!-- _color: green -->
+![bg right:56%](img/sale_2.png)
+
+- CHM
+- TTOPS
+
+--- 
+
+## Tree Canopy
+<!-- _color: green -->
+![bg right:56%](img/sale_2.png)
+
+- CHM
+- TTOPS
+- Crowns
 
 ---
 
