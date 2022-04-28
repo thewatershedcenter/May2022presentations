@@ -16,42 +16,6 @@ backgroundColor: #000
 Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 =====
 ---
-
-## Topography
-<!-- _color: green -->
-![bg right:56%](img/sale_2.png)
-
-Yes indeed
-
-
----
-
-## Tree Canopy
-<!-- _color: green -->
-![bg right:56%](img/CHMonSLP2.png)
-
-- CHM
-- Shown here over slope
-
----
-
-## Tree Canopy
-<!-- _color: green -->
-![bg right:56%](img/CHMonSLP.png)
-
-- CHM
-- Shown here over slope
----
-
-## Tree Canopy
-<!-- _color: green -->
-![bg right:56%](img/sale_2.png)
-
-- CHM
-- TTOPS
-
---- 
-
 ## Tree Canopy
 <!-- _color: green -->
 ![bg right:56%](img/sale_2.png)
@@ -60,16 +24,74 @@ Yes indeed
 - TTOPS
 - Crowns
 
+
 ---
-## Slope
+### Tree Canopy - CHM
 <!-- _color: green -->
-![bg right:56%](img/HIS_slp_op_RRIM.png)
+![bg right:56%](img/CHMonSLP2.png)
 
-- Slope!
+
+- Shown here over slope
+
+---
+
+### Tree Canopy - CHM
+<!-- _color: green -->
+![bg right:56%](img/CHMonSLP.png)
+
+- Same image
+- Larger scale
 
 
 ---
-## Openness
+#### Tree Canopy - TTOPS
+<!-- _color: green -->
+![bg right:56%](img/sale_2.png)
+
+
+---
+#### Tree Canopy - ZQ95
+<!-- _color: green -->
+![bg right:56%](img/ZQ95.png)
+
+
+---
+#### Tree Canopy - Crowns
+<!-- _color: green -->
+![bg right:56%](img/sale_2.png)
+
+
+
+---
+## Topography
+<!-- _color: green -->
+![bg right:56%](img/sale_2.png)
+
+- Slope
+- Shaded relief
+- Openness
+- Red Relief
+- High Pass Filter
+- Geomorphons
+
+
+---
+### Topography - Slope
+<!-- _color: green -->
+![bg right:56%](img/slp_05.png)
+
+- Slope of DEM
+
+
+---
+### Topography - Shaded relief
+<!-- _color: green -->
+![bg right:56%](img/shd_05.png)
+
+- A Classic visualization
+
+---
+### Topography - Openness
 <!-- _color: green -->
 ![bg right:56%](img/openess_15_05.png)
 
@@ -78,7 +100,7 @@ Yes indeed
 
 
 ---
-## Red Relief
+### Topography - Red Relief
 <!-- _color: green -->
 ![bg right:56%](img/HIS_slp_op_RRIM.png)
 
@@ -87,7 +109,7 @@ Yes indeed
 
 
 ---
-## High Pass Filter
+#### Topography - High Pass Filter
 <!-- _color: green -->
 ![bg right:56%](img/hp_15_05.png)
 
@@ -96,7 +118,7 @@ Yes indeed
 
 
 ---
-## High Pass FIlter
+#### Topography - High Pass FIlter
 <!-- _color: green -->
 ![bg right:56%](img/hp_15_05_outliers.png)
 
@@ -106,7 +128,7 @@ Yes indeed
 
 
 ---
-## Another Compound visualization
+#### Topography - Another Compound visualization
 <!-- _color: green -->
 ![bg right:56%](img/rgb_open_slp_hp.png)
 
@@ -114,9 +136,7 @@ Yes indeed
 
 
 ---
-
-
-## Geomorphons
+### Topography - Geomorphons
 <!-- _color: green -->
 <!-- _footer: "![](img/legend.png)" -->
 
@@ -135,12 +155,12 @@ footer img {
 
 ![bg right:56%](img/Geomorphon03_0_0__05.png)
 
-- High frequency spatial data 
+- Here showing high frequency spatial data 
 - i.e. small features
 
 
 ---
-## Geomorphons
+### Topography - Geomorphons
 <!-- _color: green -->
 <!-- _footer: "![](img/geomorphon.png)" -->
 
@@ -159,24 +179,15 @@ footer img {
 
 ![bg bottom right:56%](img/geomorphon15_03_01__05.png)
 
-- Intermediate frequency spatial data
+- Here showing intermediate frequency spatial data
 - i.e., medium sized features
 
 
----
-## Total Animal Situation (TAS)
-<!-- _color: green -->
-![bg right:56%](img/shd_05.png)
-
-- Fish
-- Unicorn
-- shd_05.png
-
 
 ---
 ## Total Animal Situation (TAS)
 <!-- _color: green -->
-![bg right:56%](img/slp_05.png)
+![bg right:56%])
 
 - Mouse
 - slp_05.png
