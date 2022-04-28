@@ -69,6 +69,12 @@ Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 
 
 ---
+### Canopy -KNN
+<!-- _color: green -->
+![bg bottom right:56%](img/KnnClassification.svg)
+
+
+---
 ## Topography
 <!-- _color: green -->
 ![bg right:56%](img/sale_2.png)
@@ -187,6 +193,4 @@ footer img {
 
 - Here showing intermediate frequency spatial data
 - i.e., medium sized features
-
-
 
