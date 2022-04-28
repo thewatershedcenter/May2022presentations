@@ -6,18 +6,16 @@ paginate: true
 title: PAGE TITLE HERE
 filename: docs/UpperTrinityLidar2022_04_27.md
 backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
+<!-- _class: invert -->
+![bg](img/sale_2.png)
 
 
-Lidar Forestry Applications in the Upper Trinity Watershed
+Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 =====
 
 ---
-<!-- backgroundColor: black -->
-<!--  color: white -->
-
 
 ## Slide Two
 
