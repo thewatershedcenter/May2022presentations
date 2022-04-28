@@ -197,5 +197,5 @@ footer img {
 
 - Mouse
 - slp_05.png
-- L. Ron Hubbard
+- 
 
