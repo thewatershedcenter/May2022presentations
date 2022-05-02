@@ -62,7 +62,7 @@ jobs:
         if: ${{ github.event_name == 'push' }}
         with:
           branch: main
-          run: |
-            git add ./README.pdf
-            git commit -m "Built pdf from md"
-            git push origin
+        run: |
+          git add ./README.pdf
+          git commit -m "Built pdf from md"
+          git push origin
