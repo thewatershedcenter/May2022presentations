@@ -149,21 +149,8 @@ Lidar Forestry Applications in the Upper Trinity Watershed  <!-- fit -->
 
 ---
 ### Topography - Geomorphons
-<!-- _color: green -->
-<!-- _footer: "![](img/legend.png)" -->
-
-<style>
-footer {
-    height: 330px;
-    margin-bottom: 0 px;
-    
-}
-footer img {
-
-    float: center;
-    width: 90%;
- }
-</style>
+<!-- _color: green
+-->
 
 ![bg right:56%](img/Geomorphon03_0_0__05.png)
 
@@ -171,12 +158,15 @@ footer img {
 - i.e. small features
 
 
+![legend](img/legend.png){ width=50% }
+
+
 ---
 ### Topography - Geomorphons
 <!-- _color: green -->
 <!-- _footer: "![](img/geomorphon.png)" -->
 
-<style>
+style: |
 footer {
     height: 330px;
     margin-bottom: 0 px;
@@ -185,9 +175,9 @@ footer {
 footer img {
 
     float: center;
-    width: 70%;
+    width: 40%;
  }
-</style>
+
 
 ![bg bottom right:56%](img/geomorphon15_03_01__05.png)
 
