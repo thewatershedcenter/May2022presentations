@@ -57,3 +57,12 @@ jobs:
           branch: gh-pages
           folder: ./build/
           clean-exclude: pr-preview/
+
+      - name: PDF To Main
+        if: ${{ github.event_name == 'push' }}
+        with:
+          branch: main
+        run: |
+          git add ./README.pdf
+          git commit -m "Built pdf from md"
+          git push origin
