@@ -60,6 +60,7 @@ jobs:
 
       - name: PDF To Main
         if: ${{ github.event_name == 'push' }}
+        uses: actions/checkout@v2
         with:
           branch: main
         run: |
