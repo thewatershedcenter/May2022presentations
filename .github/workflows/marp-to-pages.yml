@@ -60,10 +60,6 @@ jobs:
 
       - name: PDF To Main
         if: ${{ github.event_name == 'push' }}
-        uses: actions/checkout@v2
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          branch: main
-        run: |
-          git add ./README.pdf
-          git commit -m "Built pdf from md"
-          git push origin
+          commit_message: pdf updated
